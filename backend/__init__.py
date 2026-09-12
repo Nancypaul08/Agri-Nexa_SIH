@@ -1,0 +1,1 @@
+"""AGRI NEXA backend."""
